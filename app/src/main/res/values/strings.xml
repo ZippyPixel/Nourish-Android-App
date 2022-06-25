@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nourish</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="tell_us_about_your_child">Tell us about your child</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="parent_s_email">Parent\'s Email</string>
+    <string name="parent_s_name">Parent\'s Name</string>
+    <string name="birth_date">Birthdate</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606789534706",
+    "project_id": "nourish-85bd2",
+    "storage_bucket": "nourish-85bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606789534706:android:46d74166915eb3077f216b",
+        "android_client_info": {
+          "package_name": "com.example.nourish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606789534706-eemso1u9kf4v9pngn6kklt2lq3gcbk3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nourish",
+            "certificate_hash": "0ccc5d4ea468313082fe8b7845c35892e6c2438a"
+          }
+        },
+        {
+          "client_id": "606789534706-6ajkqf9ln30gpa8iphvndqm8s74rcp0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UQep87noBJ-TzDaZSNCTibbJciSyXio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606789534706-6ajkqf9ln30gpa8iphvndqm8s74rcp0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
